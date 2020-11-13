@@ -8,8 +8,6 @@
 Welcome to my Github page! My name's Zain, I am a Software Engineer and human being, hoping to build products that uplift others.
 Pronouns: he/him
 
-<img align="right" alt="img" src="https://i.postimg.cc/qRdSgPv4/mugShot.png" width="50%" height="auto" />
-
 
 #### 🌱 Things I am currently working on: 
 - Managing the product development team at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
