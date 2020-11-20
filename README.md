@@ -15,7 +15,7 @@ Pronouns: he/him
 - Teaching assistant at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco, helping a diverse student body learn the fundamentals of Software Product Development.
 
 #### 💪 Things I am challenging myself with:
-- Learning C/C++/C#, and all the cool stuff it can do! (AR/VR, robotics, game development, etc.)
+- Learning C/C++/C#, and all the cool projects it helps with! (AR/VR, robotics, IoT devices, game development, etc.)
 
 #### :computer: Programming languages and tools: 
 <p>
