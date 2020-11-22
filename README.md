@@ -6,7 +6,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zainr7989@gmail.com)
 
 Welcome to my Github page! My name's Zain, I am a Software Engineer and human being, hoping to build products that uplift others.
+
 Pronouns: he/him
+
 [Portfolio Website](https://www.makeschool.com/portfolio/zain-raza)
 
 
