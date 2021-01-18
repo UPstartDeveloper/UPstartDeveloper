@@ -13,7 +13,7 @@ Pronouns: he/him
 
 
 #### 🌱 Things I am currently working on: 
-- Managing the product development team at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
+- Managing the product development team at [Carbon0 Games](https://playcarbon0.com/) ([repo link](https://github.com/Carbon0-Games/carbon0-web-app)), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
 - Teaching assistant at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco, helping a diverse student body learn the fundamentals of Software Product Development.
 
