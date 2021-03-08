@@ -11,15 +11,16 @@ Pronouns: he/him
 
 [Portfolio Website](https://www.makeschool.com/portfolio/zain-raza)
 
+#### 🌱 Things I am currently working on: 🤖
+- Contributing to product design and machine learning at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
 
-#### 🌱 Things I am currently working on: 
-- Managing the product development team at [Carbon0 Games](https://playcarbon0.com/) ([repo link](https://github.com/Carbon0-Games/carbon0-web-app)), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
+#### 💪 Things I am challenging myself with: 💪
+- Creating 3D environments on the Web with Three.js
+- Learning C/C++/C#, and all the cool stuff they can build! (AR/VR, game development, IoT, etc.)
+
+#### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
-- Teaching assistant at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco, helping a diverse student body learn the fundamentals of Software Product Development.
-
-#### 💪 Things I am challenging myself with:
-- Growing knowledge in machine learning frameworks to build intelligent services 🤖
-- Learning C/C++/C#, and all the cool projects it helps with! (AR/VR, robotics, IoT devices, game development, etc.)
+- Peer mentoring at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco with a diverse student body.
 
 #### :computer: Programming languages and tools: 
 <p>
@@ -27,6 +28,7 @@ Pronouns: he/him
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
