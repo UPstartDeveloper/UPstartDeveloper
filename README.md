@@ -12,10 +12,11 @@ Pronouns: he/him
 [Portfolio Website](https://www.makeschool.com/portfolio/zain-raza)
 
 #### 🌱 Things I am currently working on: 🤖
-- Crafting empathetic technology in [headsetsGoodbye](https://github.com/UPstartDeveloper/headsetsGoodbye), using deep computer vision to enable intuitive human-machine interaction.
+- Building modern UI's with [Angular](https://angular.io/) at [PTC](https://ptc.com), which brings digital transformation to innovative industrial manufacturers.
 
 #### 💪 Things I am challenging myself with: 💪
 - Contributing to product design and machine learning at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
+- Crafting empathetic technology in [headsetsGoodbye](https://github.com/UPstartDeveloper/headsetsGoodbye), using deep computer vision to enable intuitive human-machine interaction.
 - Learning C/C++/C#/Three.js, and all the cool stuff they can build! (AR/VR, game development, etc.)
 
 #### 🚀 Things I do beyond code: 🗣
