@@ -21,7 +21,7 @@ Pronouns: he/him
 
 #### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
-- Peer mentoring at [Make School](https://makeschool.com), a new college for Computer Science in San Francisco with a diverse student body.
+- Mentoring my classmates at school, in the Dominican University of California.
 
 #### :computer: Programming languages and tools: 
 <p>
