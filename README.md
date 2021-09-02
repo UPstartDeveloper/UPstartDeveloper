@@ -12,16 +12,15 @@ Pronouns: he/him
 [Portfolio Website](https://www.makeschool.com/portfolio/zain-raza)
 
 #### 🌱 Things I am currently working on: 🤖
-- Building modern UI's with [Angular](https://angular.io/) at [PTC](https://ptc.com), which brings digital transformation to innovative industrial manufacturers.
+- Serving as a Teaching Assistant at the Dominican University of California, where I am revamping the Machine Learning courses with new projects (such as this [computer vision API](https://github.com/UPstartDeveloper/Fire-Detection-API)) and providing mentorship to undergraduate students.
 
 #### 💪 Things I am challenging myself with: 💪
-- Contributing to product design and machine learning at [Carbon0 Games](https://playcarbon0.com/), an early-stage startup that makes it easier for folks to measurably reduce their carbon footprint.
 - Crafting empathetic technology in [headsetsGoodbye](https://github.com/UPstartDeveloper/headsetsGoodbye), using deep computer vision to enable intuitive human-machine interaction.
-- Learning C/C++/C#/Three.js, and all the cool stuff they can build! (AR/VR, game development, etc.)
+- Contributing AI/ML infrastructure at SageScan early-stage startup that makes it easier for doctors to diagnose diseases through mobile apps like [StrepScan](https://youtu.be/1Qc0qo5gwaw).
+- Building a computer from first principles as a part of a [Coursera course](https://www.coursera.org/learn/build-a-computer/home/welcome) by the Hebrew University of Jerusalem
 
 #### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
-- Mentoring my classmates at school, in the Dominican University of California.
 
 #### :computer: Programming languages and tools: 
 <p>
