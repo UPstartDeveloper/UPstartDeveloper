@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zain-train/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zainr7989@gmail.com)
 
-Welcome to my GitHub page! My name's Zain, I am a Software Engineer and human being, hoping to build products that uplift others.
+Welcome to my GitHub page! My name's Zain, and I write code to make technology that enables us to be more human.
 
 Pronouns: he/him
 
