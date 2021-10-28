@@ -9,7 +9,7 @@ Welcome to my GitHub page! My name's Zain, and I write code to make technology t
 
 Pronouns: he/him
 
-[Portfolio Website](https://www.makeschool.com/portfolio/zain-raza)
+[Portfolio Website](https://zainraza.me/)
 
 #### 🌱 Things I am currently working on: 🤖
 - Serving as a Teaching Assistant at the Dominican University of California, where I am revamping the Machine Learning courses with new projects (such as this [computer vision API](https://github.com/UPstartDeveloper/Fire-Detection-API)) and providing mentorship to undergraduate students.
