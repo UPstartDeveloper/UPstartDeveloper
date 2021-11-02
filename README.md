@@ -16,8 +16,8 @@ Pronouns: he/him
 
 #### 💪 Things I am challenging myself with: 💪
 - Crafting empathetic technology in [headsetsGoodbye](https://github.com/UPstartDeveloper/headsetsGoodbye), using deep computer vision to enable intuitive human-machine interaction.
-- Contributing AI/ML infrastructure at SageScan early-stage startup that makes it easier for doctors to diagnose diseases through mobile apps like [StrepScan](https://youtu.be/1Qc0qo5gwaw).
-- Building a computer from first principles as a part of a [Coursera course](https://www.coursera.org/learn/build-a-computer/home/welcome) by the Hebrew University of Jerusalem
+- Contributing ML infrastructure at SageScan, an early-stage startup that makes it easier for doctors to diagnose diseases through mobile apps like [StrepScan](https://youtu.be/1Qc0qo5gwaw).
+- Completing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) by Dr. Andrew Ng on Coursera.
 
 #### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
