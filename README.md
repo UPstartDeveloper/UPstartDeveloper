@@ -15,9 +15,9 @@ Pronouns: he/him
 - Serving as a Teaching Assistant at the Dominican University of California, where I am revamping the Machine Learning courses with new projects (such as this [computer vision API](https://github.com/UPstartDeveloper/Fire-Detection-API)) and providing mentorship to undergraduate students.
 
 #### 💪 Things I am challenging myself with: 💪
-- Crafting empathetic technology in [headsetsGoodbye](https://github.com/UPstartDeveloper/headsetsGoodbye), using deep computer vision to enable intuitive human-machine interaction.
 - Contributing ML infrastructure at SageScan, an early-stage startup that makes it easier for doctors to diagnose diseases through mobile apps like [StrepScan](https://youtu.be/1Qc0qo5gwaw).
-- Completing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?) by Dr. Andrew Ng on Coursera.
+- Crafting empathetic technology in [headsetsGoodbye](https://github.com/UPstartDeveloper/headsetsGoodbye), using deep computer vision to enable intuitive human-machine interaction.
+- Competing in the ["Help the Great Barrier Reef"](https://www.kaggle.com/c/tensorflow-great-barrier-reef), using a version of [YOLOv5](https://github.com/ultralytics/yolov5) exported to Tensorflow 2.
 
 #### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
