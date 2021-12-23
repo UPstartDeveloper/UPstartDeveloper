@@ -16,7 +16,7 @@ Pronouns: he/him
 
 #### 💪 Things I am challenging myself with: 💪
 - Competing in computer vision competitions like the ["Help the Great Barrier Reef"](https://www.kaggle.com/c/tensorflow-great-barrier-reef) Kaggle challenge, using Tensorflow 2.
-- Researching how HCI can improve student outcomes in digitally-enabled learning environments at [iQ3Connect Inc.](https://iq3connect.com/).
+- Researching how HCI can improve student outcomes in digitally-enabled learning environments at [iQ3Connect Inc](https://iq3connect.com/).
 - Diving deeper into computer graphics for applications in gaming and VR-based therapy projects, such as at [Studio Bahia](https://www.studiobahia.org/).
 
 #### 🚀 Things I do beyond code: 🗣
