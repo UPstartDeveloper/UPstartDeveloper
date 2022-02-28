@@ -5,19 +5,18 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zain-train/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zainr7989@gmail.com)
 
-Welcome to my GitHub page! My name's Zain, and I write code to ensure next wave of intelligence retains our human intuition.
+Welcome to my GitHub page! My name's Zain, and I write code to ensure next wave of intelligence retains our humanity.
 
 Pronouns: he/him
 
 [Portfolio Website](https://zainraza.me/)
 
 #### 🌱 Things I am currently working on: 🤖
-- Serving as a Teaching Assistant at the Dominican University of California, where I am develop the Machine Learning/Computer Science courses with new projects (such as this [computer vision API](https://github.com/UPstartDeveloper/Fire-Detection-API)) and mentor students.
+- Researching how NeRFs (aka neural radiance fields) can drastically improve the costliness and speed of developing VR training and education applications at [iQ3Connect Inc](https://iq3connect.com/).
 
 #### 💪 Things I am challenging myself with: 💪
 - Competing in computer vision competitions like the ["Help the Great Barrier Reef"](https://www.kaggle.com/c/tensorflow-great-barrier-reef) Kaggle challenge, using Tensorflow 2.
-- Researching how HCI can improve student outcomes in digitally-enabled learning environments at [iQ3Connect Inc](https://iq3connect.com/).
-- Diving deeper into computer graphics for applications in gaming and VR-based therapy projects, such as at [Studio Bahia](https://www.studiobahia.org/).
+- Conducting voluntary computer graphics research for VR-based therapy projects at [Studio Bahia](https://www.studiobahia.org/).
 
 #### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
