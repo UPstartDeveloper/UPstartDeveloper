@@ -12,11 +12,12 @@ Pronouns: he/him
 [Portfolio Website](https://zainraza.me/)
 
 #### 🌱 Things I am currently working on: 🤖
-- Researching how NeRFs (aka neural radiance fields) can drastically improve the costliness and speed of developing VR training and education applications at [iQ3Connect Inc](https://iq3connect.com/).
+- Researching how NeRFs (aka neural radiance fields) can streamline the pipeline for authoring 3D content over the web at [iQ3Connect Inc](https://iq3connect.com/).
 
 #### 💪 Things I am challenging myself with: 💪
-- Competing in computer vision competitions like the ["Help the Great Barrier Reef"](https://www.kaggle.com/c/tensorflow-great-barrier-reef) Kaggle challenge, using Tensorflow 2.
-- Conducting voluntary computer graphics research for VR-based therapy projects at [Studio Bahia](https://www.studiobahia.org/).
+- Embracing the math, art, and code that goes into writing real-time WebGL renderers, and optimizing them to work on mobile!
+- Volunteering at [Studio Bahia](https://www.studiobahia.org/) to build custom effects for our VR-based therapies.
+- Competing in computer vision competitions like ["Help the Great Barrier Reef"](https://www.kaggle.com/c/tensorflow-great-barrier-reef), and mastering books like [Hands-On Machine Learning](https://github.com/ageron/handson-ml2) in Tensorflow 2.
 
 #### 🚀 Things I do beyond code: 🗣
 - Sharing experiences and lessons about tech on my [Medium Blog](https://zain-raza.medium.com), and the *[In the Making](https://anchor.fm/maker-nation)* podcast
